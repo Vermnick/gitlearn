@@ -7,16 +7,13 @@ body{
 }
 .first-list__section{
     background-color: #EEEFF1 ;
-    width: 1920px;
+    max-width: 1920px;
     height: 700px;
 }
 .container__header{
-    width: 1100px;
+    max-width: 1100px;
     height: 700px;
     margin-left: 399px;
-}
-.list-wrapper{
-
 }
 .header__nav li {
     list-style: none;
